@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492025064 source:d:\files\universidade federal\code examples\primenumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

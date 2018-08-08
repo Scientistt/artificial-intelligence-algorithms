@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491597863 source:d:\files\universidade federal\code examples\smallestbiiggestsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1467214384 source:/home/promobile/Área de Trabalho/Huffman Algorithm/huffman.c
+	"huffman.h"
+
+1467211471 /home/promobile/Área de Trabalho/Huffman Algorithm/huffman.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1467214136 source:/home/promobile/Área de Trabalho/Huffman Algorithm/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"huffman.h"
+
+1467204939 source:/home/promobile/Área de Trabalho/Huffman Algorithm/test.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

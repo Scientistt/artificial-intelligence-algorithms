@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1470656920 source:/home/fabiovitor/Documents/hanoi/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1470656920 source:/media/fabiovitor/FabioVitor/Computer Science/4 Semestre/Matemática discreta/hanoi/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1471291756 source:/media/fabiovitor/FabioVitor/Computer Science/4 Semestre/Matemática discreta/Challenges/Hanoi/main.c
+	<stdio.h>
+	<stdlib.h>
+

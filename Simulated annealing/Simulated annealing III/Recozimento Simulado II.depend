@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494879908 source:d:\files\github\inteligenciaartificialfabiovitor\recozimento simulado ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
